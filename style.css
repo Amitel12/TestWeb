@@ -1,0 +1,19 @@
+
+h1 {
+color: blue;
+
+}
+#LightCoffee {
+    color:beige
+}
+tr {
+    border: 3px double #1c6ea4
+}
+
+#Recipe:hover {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style:italic;
+    
+    
+    
+}
